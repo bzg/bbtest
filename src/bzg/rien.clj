@@ -1,6 +1,6 @@
 #!/usr/bin/env bb
 
-(ns bbtest)
+(ns bzg.bbtest)
 
 (defn -main [& args]
   (println "Rien!"))
