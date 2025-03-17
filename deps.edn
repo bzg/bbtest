@@ -1,3 +1,2 @@
-{:version "0.1"
- ;; :path    ["src"]
- }
+{:version "0.2"
+ :path    ["src"]}

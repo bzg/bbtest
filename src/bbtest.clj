@@ -6,8 +6,6 @@
 
 (ns bbtest)
 
-(def version "0.5.1")
-
 ;; (deps/add-deps '{:deps {org.clojars.askonomm/ruuter {:mvn/version "1.3.4"}}})
 
 (when (= *file* (System/getProperty "babashka.file"))
