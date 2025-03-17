@@ -2,8 +2,8 @@
 
 (ns bzg.bbtest)
 
-;; (defn -main [& args]
-;;   (println "Rien!"))
+(defn -main [& args]
+  (println "Rien!"))
 
 (when (= *file* (System/getProperty "babashka.file"))
   (println "Rien!"))
