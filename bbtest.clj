@@ -1,4 +1,4 @@
-#!/usr/bin/env bb
+;; #!/usr/bin/env bb
 
 (ns bbtest
   (:require [babashka.cli :as cli]
