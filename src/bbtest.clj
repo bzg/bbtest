@@ -1,6 +1,6 @@
 #!/usr/bin/env bb
 
-(ns .bbtest
+(ns bbtest
   (:require [babashka.cli :as cli]
             [babashka.deps :as deps]
             [babashka.http-client :as http]
