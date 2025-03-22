@@ -1,0 +1,3 @@
+;; {:path ["src"]
+;;  ;; :bbin/bin {bbtest {:main-opts ["-m" "bbtest"]}}
+;;  }
