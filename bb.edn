@@ -1,3 +1,4 @@
 {:path ["src"]
+ ;; :deps {org.babashka/cli {:mvn/version "0.8.62"}}
  ;; :bbin/bin {bbtest {:main-opts ["-m" "bbtest"]}}
  }
